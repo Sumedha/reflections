@@ -15,6 +15,8 @@ organized? How would branches help?
 	When you want to have a branch for experimental or a different language.
 	
 How do the diagrams help you visualize the branch structure?
+	As the commits are on a vertical line, you need to implement new branches
+	New branches then are parallel to the master and easier to visualize when looking at the diagram!
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
